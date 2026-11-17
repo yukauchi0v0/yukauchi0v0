@@ -16,23 +16,10 @@
 
 ---
 
-### 📂 個人作品與經歷
 
-- 👨‍💻 **精選作品集**：[點此觀看我的作品集](https://drive.google.com/open?id=1Cs2rhgFo95Zdyz1AOR10iBDmLtUpoBP4)
-- 📝 **日常與創作紀錄**：[歡迎關注我的 Instagram](https://www.instagram.com/yukauchi_0019/)
-- 📄 **個人簡歷**：[檢視我的相關經歷](https://drive.google.com/open?id=1Cs2rhgFo95Zdyz1AOR10iBDmLtUpoBP4)
 
----
 
-### 🌐 側寫與社群連結
 
-<p align="left">
-<a href="https://github.com/yukauchi0v0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="yukauchi0v0" height="30" width="40" /></a>
-<a href="https://instagram.com/yukauchi_0019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yukauchi_0019" height="30" width="40" /></a>
-<a href="https://youtube.com/@yukonshan7600" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@yukonshan7600" height="30" width="40" /></a>
-</p>
-
----
 
 ### 🛠 擅長工具與技術
 
